@@ -1,0 +1,7 @@
+6
+mammal dog
+bird peacock
+mammal cat
+reptile alligator
+amphibian frog
+insect spider
